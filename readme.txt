@@ -1,3 +1,5 @@
 Hello World
 
-This is Siddhanth! I am a resistance.
+This is the First file that was created.
+
+Testing if Git works via terminal.
